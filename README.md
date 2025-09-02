@@ -34,7 +34,8 @@ A menu-driven C program that simulates an E-Commerce Order Processing System usi
 - A C compiler (e.g., GCC).
 - Works on any platform (Windows, Linux, macOS) that supports C.
 - Standard C libraries only (stdio.h, stdlib.h, string.h).
-  ---
+
+---
 ## Project Run
 
 When you run the program, you’ll see this menu:
