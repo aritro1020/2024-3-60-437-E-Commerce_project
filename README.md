@@ -31,7 +31,7 @@ A menu-driven C program that simulates an E-Commerce Order Processing System usi
 
   ---
 ## Dependencies
-- A C compiler (e.g., GCC).
+- A C compiler.
 - Works on any platform (Windows, Linux, macOS) that supports C.
 - Standard C libraries only (stdio.h, stdlib.h, string.h).
 
